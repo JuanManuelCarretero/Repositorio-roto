@@ -7,7 +7,6 @@ public class main {
         System.out.println("El resultado es: " + resultado);
     }
 
-    // TODO: Arreglar este método, devuelve siempre 0
     public static int sumar(int a, int b) {
         return a + b;
     }
